@@ -30,9 +30,9 @@ The solutions are categorized into different difficulty levels (e.g., easy, medi
 
 | # | Title | Solution |
 |---|-------|----------|
-| 1 | [Problem Title 1](leetcode/easy/problem1/README.md) | [Python](leetcode/easy/problem1/solution.py) |
-| 2 | [Problem Title 2](leetcode/easy/problem2/README.md) | [Python](leetcode/easy/problem2/solution.py) |
-| 3 | [Problem Title 3](leetcode/medium/problem3/README.md) | [Python](leetcode/medium/problem3/solution.py) |
+| 1 | [Problem_01](leetcode/easy/problem1/README.md) | [Python](leetcode/easy/problem1/solution.py) |
+| 2 | [Problem_02](leetcode/easy/problem2/README.md) | [Python](leetcode/easy/problem2/solution.py) |
+| 3 | [Problem_03](leetcode/medium/problem3/README.md) | [Python](leetcode/medium/problem3/solution.py) |
 
 ## Contributing
 
